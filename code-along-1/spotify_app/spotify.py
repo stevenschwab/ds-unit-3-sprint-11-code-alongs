@@ -1,6 +1,7 @@
 import requests
 from os import getenv
 
+
 def authenticate():
     AUTH_URL = 'https://accounts.spotify.com/api/token'
 
